@@ -1,0 +1,120 @@
+2017-01-06 17:35:12,546 [main           ] DEBUG Statement                      - {conn-10001, stmt-20000} created
+2017-01-06 17:35:12,626 [main           ] DEBUG Statement                      - {conn-10001, stmt-20000, rs-50000} query executed. 77.619449 millis. 
+SELECT 1
+2017-01-06 17:35:12,626 [main           ] DEBUG Statement                      - {conn-10001, stmt-20000} closed
+2017-01-06 17:35:12,638 [main           ] DEBUG Statement                      - {conn-10002, stmt-20001} created
+2017-01-06 17:35:12,640 [main           ] DEBUG Statement                      - {conn-10002, stmt-20001, rs-50001} query executed. 1.717172 millis. 
+SELECT 1
+2017-01-06 17:35:12,641 [main           ] DEBUG Statement                      - {conn-10002, stmt-20001} closed
+2017-01-06 17:35:12,653 [main           ] DEBUG Statement                      - {conn-10003, stmt-20002} created
+2017-01-06 17:35:12,654 [main           ] DEBUG Statement                      - {conn-10003, stmt-20002, rs-50002} query executed. 0.706241 millis. 
+SELECT 1
+2017-01-06 17:35:12,654 [main           ] DEBUG Statement                      - {conn-10003, stmt-20002} closed
+2017-01-06 17:35:12,665 [main           ] DEBUG Statement                      - {conn-10004, stmt-20003} created
+2017-01-06 17:35:12,666 [main           ] DEBUG Statement                      - {conn-10004, stmt-20003, rs-50003} query executed. 0.585326 millis. 
+SELECT 1
+2017-01-06 17:35:12,666 [main           ] DEBUG Statement                      - {conn-10004, stmt-20003} closed
+2017-01-06 17:35:12,676 [main           ] DEBUG Statement                      - {conn-10005, stmt-20004} created
+2017-01-06 17:35:12,677 [main           ] DEBUG Statement                      - {conn-10005, stmt-20004, rs-50004} query executed. 0.949031 millis. 
+SELECT 1
+2017-01-06 17:35:12,677 [main           ] DEBUG Statement                      - {conn-10005, stmt-20004} closed
+2017-01-06 17:35:12,686 [main           ] DEBUG Statement                      - {conn-10006, stmt-20005} created
+2017-01-06 17:35:12,688 [main           ] DEBUG Statement                      - {conn-10006, stmt-20005, rs-50005} query executed. 0.645944 millis. 
+SELECT 1
+2017-01-06 17:35:12,688 [main           ] DEBUG Statement                      - {conn-10006, stmt-20005} closed
+2017-01-06 17:35:12,695 [main           ] DEBUG Statement                      - {conn-10007, stmt-20006} created
+2017-01-06 17:35:12,696 [main           ] DEBUG Statement                      - {conn-10007, stmt-20006, rs-50006} query executed. 0.608419 millis. 
+SELECT 1
+2017-01-06 17:35:12,696 [main           ] DEBUG Statement                      - {conn-10007, stmt-20006} closed
+2017-01-06 17:35:12,707 [main           ] DEBUG Statement                      - {conn-10008, stmt-20007} created
+2017-01-06 17:35:12,708 [main           ] DEBUG Statement                      - {conn-10008, stmt-20007, rs-50007} query executed. 0.653 millis. 
+SELECT 1
+2017-01-06 17:35:12,709 [main           ] DEBUG Statement                      - {conn-10008, stmt-20007} closed
+2017-01-06 17:35:12,717 [main           ] DEBUG Statement                      - {conn-10009, stmt-20008} created
+2017-01-06 17:35:12,718 [main           ] DEBUG Statement                      - {conn-10009, stmt-20008, rs-50008} query executed. 0.791554 millis. 
+SELECT 1
+2017-01-06 17:35:12,718 [main           ] DEBUG Statement                      - {conn-10009, stmt-20008} closed
+2017-01-06 17:35:12,727 [main           ] DEBUG Statement                      - {conn-10010, stmt-20009} created
+2017-01-06 17:35:12,728 [main           ] DEBUG Statement                      - {conn-10010, stmt-20009, rs-50009} query executed. 0.61772 millis. 
+SELECT 1
+2017-01-06 17:35:12,728 [main           ] DEBUG Statement                      - {conn-10010, stmt-20009} closed
+2017-01-06 17:37:08,098 [main           ] DEBUG Statement                      - {conn-10001, stmt-20000} created
+2017-01-06 17:37:08,181 [main           ] DEBUG Statement                      - {conn-10001, stmt-20000, rs-50000} query executed. 80.92454 millis. 
+SELECT 1
+2017-01-06 17:37:08,182 [main           ] DEBUG Statement                      - {conn-10001, stmt-20000} closed
+2017-01-06 17:37:08,193 [main           ] DEBUG Statement                      - {conn-10002, stmt-20001} created
+2017-01-06 17:37:08,193 [main           ] DEBUG Statement                      - {conn-10002, stmt-20001, rs-50001} query executed. 0.650434 millis. 
+SELECT 1
+2017-01-06 17:37:08,194 [main           ] DEBUG Statement                      - {conn-10002, stmt-20001} closed
+2017-01-06 17:37:08,205 [main           ] DEBUG Statement                      - {conn-10003, stmt-20002} created
+2017-01-06 17:37:08,206 [main           ] DEBUG Statement                      - {conn-10003, stmt-20002, rs-50002} query executed. 0.788026 millis. 
+SELECT 1
+2017-01-06 17:37:08,206 [main           ] DEBUG Statement                      - {conn-10003, stmt-20002} closed
+2017-01-06 17:37:08,215 [main           ] DEBUG Statement                      - {conn-10004, stmt-20003} created
+2017-01-06 17:37:08,216 [main           ] DEBUG Statement                      - {conn-10004, stmt-20003, rs-50003} query executed. 1.300227 millis. 
+SELECT 1
+2017-01-06 17:37:08,216 [main           ] DEBUG Statement                      - {conn-10004, stmt-20003} closed
+2017-01-06 17:37:08,226 [main           ] DEBUG Statement                      - {conn-10005, stmt-20004} created
+2017-01-06 17:37:08,227 [main           ] DEBUG Statement                      - {conn-10005, stmt-20004, rs-50004} query executed. 0.646907 millis. 
+SELECT 1
+2017-01-06 17:37:08,227 [main           ] DEBUG Statement                      - {conn-10005, stmt-20004} closed
+2017-01-06 17:37:08,236 [main           ] DEBUG Statement                      - {conn-10006, stmt-20005} created
+2017-01-06 17:37:08,237 [main           ] DEBUG Statement                      - {conn-10006, stmt-20005, rs-50005} query executed. 0.609061 millis. 
+SELECT 1
+2017-01-06 17:37:08,238 [main           ] DEBUG Statement                      - {conn-10006, stmt-20005} closed
+2017-01-06 17:37:08,245 [main           ] DEBUG Statement                      - {conn-10007, stmt-20006} created
+2017-01-06 17:37:08,246 [main           ] DEBUG Statement                      - {conn-10007, stmt-20006, rs-50006} query executed. 0.618362 millis. 
+SELECT 1
+2017-01-06 17:37:08,246 [main           ] DEBUG Statement                      - {conn-10007, stmt-20006} closed
+2017-01-06 17:37:08,258 [main           ] DEBUG Statement                      - {conn-10008, stmt-20007} created
+2017-01-06 17:37:08,259 [main           ] DEBUG Statement                      - {conn-10008, stmt-20007, rs-50007} query executed. 0.589176 millis. 
+SELECT 1
+2017-01-06 17:37:08,260 [main           ] DEBUG Statement                      - {conn-10008, stmt-20007} closed
+2017-01-06 17:37:08,268 [main           ] DEBUG Statement                      - {conn-10009, stmt-20008} created
+2017-01-06 17:37:08,269 [main           ] DEBUG Statement                      - {conn-10009, stmt-20008, rs-50008} query executed. 0.686035 millis. 
+SELECT 1
+2017-01-06 17:37:08,269 [main           ] DEBUG Statement                      - {conn-10009, stmt-20008} closed
+2017-01-06 17:37:08,277 [main           ] DEBUG Statement                      - {conn-10010, stmt-20009} created
+2017-01-06 17:37:08,278 [main           ] DEBUG Statement                      - {conn-10010, stmt-20009, rs-50009} query executed. 0.584686 millis. 
+SELECT 1
+2017-01-06 17:37:08,278 [main           ] DEBUG Statement                      - {conn-10010, stmt-20009} closed
+2017-01-06 17:37:10,011 [main           ] DEBUG Statement                      - {conn-110001, stmt-120000} created
+2017-01-06 17:37:10,013 [main           ] DEBUG Statement                      - {conn-110001, stmt-120000, rs-150000} query executed. 1.430442 millis. 
+SELECT 1
+2017-01-06 17:37:10,013 [main           ] DEBUG Statement                      - {conn-110001, stmt-120000} closed
+2017-01-06 17:37:10,029 [main           ] DEBUG Statement                      - {conn-110002, stmt-120001} created
+2017-01-06 17:37:10,030 [main           ] DEBUG Statement                      - {conn-110002, stmt-120001, rs-150001} query executed. 1.122544 millis. 
+SELECT 1
+2017-01-06 17:37:10,031 [main           ] DEBUG Statement                      - {conn-110002, stmt-120001} closed
+2017-01-06 17:37:10,045 [main           ] DEBUG Statement                      - {conn-110003, stmt-120002} created
+2017-01-06 17:37:10,046 [main           ] DEBUG Statement                      - {conn-110003, stmt-120002, rs-150002} query executed. 0.657811 millis. 
+SELECT 1
+2017-01-06 17:37:10,046 [main           ] DEBUG Statement                      - {conn-110003, stmt-120002} closed
+2017-01-06 17:37:10,058 [main           ] DEBUG Statement                      - {conn-110004, stmt-120003} created
+2017-01-06 17:37:10,059 [main           ] DEBUG Statement                      - {conn-110004, stmt-120003, rs-150003} query executed. 0.619965 millis. 
+SELECT 1
+2017-01-06 17:37:10,059 [main           ] DEBUG Statement                      - {conn-110004, stmt-120003} closed
+2017-01-06 17:37:10,072 [main           ] DEBUG Statement                      - {conn-110005, stmt-120004} created
+2017-01-06 17:37:10,075 [main           ] DEBUG Statement                      - {conn-110005, stmt-120004, rs-150004} query executed. 1.485928 millis. 
+SELECT 1
+2017-01-06 17:37:10,075 [main           ] DEBUG Statement                      - {conn-110005, stmt-120004} closed
+2017-01-06 17:37:10,088 [main           ] DEBUG Statement                      - {conn-110006, stmt-120005} created
+2017-01-06 17:37:10,089 [main           ] DEBUG Statement                      - {conn-110006, stmt-120005, rs-150005} query executed. 0.6004 millis. 
+SELECT 1
+2017-01-06 17:37:10,090 [main           ] DEBUG Statement                      - {conn-110006, stmt-120005} closed
+2017-01-06 17:37:10,103 [main           ] DEBUG Statement                      - {conn-110007, stmt-120006} created
+2017-01-06 17:37:10,104 [main           ] DEBUG Statement                      - {conn-110007, stmt-120006, rs-150006} query executed. 0.654283 millis. 
+SELECT 1
+2017-01-06 17:37:10,105 [main           ] DEBUG Statement                      - {conn-110007, stmt-120006} closed
+2017-01-06 17:37:10,114 [main           ] DEBUG Statement                      - {conn-110008, stmt-120007} created
+2017-01-06 17:37:10,115 [main           ] DEBUG Statement                      - {conn-110008, stmt-120007, rs-150007} query executed. 0.596873 millis. 
+SELECT 1
+2017-01-06 17:37:10,115 [main           ] DEBUG Statement                      - {conn-110008, stmt-120007} closed
+2017-01-06 17:37:10,125 [main           ] DEBUG Statement                      - {conn-110009, stmt-120008} created
+2017-01-06 17:37:10,126 [main           ] DEBUG Statement                      - {conn-110009, stmt-120008, rs-150008} query executed. 0.543632 millis. 
+SELECT 1
+2017-01-06 17:37:10,126 [main           ] DEBUG Statement                      - {conn-110009, stmt-120008} closed
+2017-01-06 17:37:10,138 [main           ] DEBUG Statement                      - {conn-110010, stmt-120009} created
+2017-01-06 17:37:10,139 [main           ] DEBUG Statement                      - {conn-110010, stmt-120009, rs-150009} query executed. 0.6793 millis. 
+SELECT 1
+2017-01-06 17:37:10,139 [main           ] DEBUG Statement                      - {conn-110010, stmt-120009} closed

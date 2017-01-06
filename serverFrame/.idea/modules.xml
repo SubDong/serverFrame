@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constants/constants.iml" filepath="$PROJECT_DIR$/constants/constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller/controller.iml" filepath="$PROJECT_DIR$/controller/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entity/entity.iml" filepath="$PROJECT_DIR$/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastfile/fastfile.iml" filepath="$PROJECT_DIR$/fastfile/fastfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainServer/mainServer.iml" filepath="$PROJECT_DIR$/mainServer/mainServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapper/mapper.iml" filepath="$PROJECT_DIR$/mapper/mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/param/param.iml" filepath="$PROJECT_DIR$/param/param.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverFrame.iml" filepath="$PROJECT_DIR$/serverFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vo/vo.iml" filepath="$PROJECT_DIR$/vo/vo.iml" />
+    </modules>
+  </component>
+</project>
